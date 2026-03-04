@@ -17,19 +17,20 @@ Personal learning repository by Dr. Chirag Khant for exploring GitHub and versio
 - Explain concepts simply when teaching GitHub/git topics
 - Avoid unnecessary jargon
 
-This file provides guidance to Claude Code (claude.al/code when working with code in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-* Repository Status
-This repository is currently enpty. Once code is added, this file should be updated to include:
-de Developnent Canands
-- Build comands
-- Lint/fornat connands
-- Developnent server cornands
+## Repository Status
+This repository is currently empty. Once code is added, this file should be updated to include:
+
+### Development Commands
+- Build commands
+- Lint/format commands
+- Development server commands
 - Project structure and organization
 - Key design patterns and conventions
-- Contouration and setup requiretents
+- Configuration and setup requirements
 
-30 Notes
+## Notes
 Update this file as the codebase evolves to help future Claude Code instances understand the project
 structure and development workflow.
 
@@ -38,8 +39,8 @@ structure and development workflow.
 - Always confirm before making destructive git operations (reset, force push, branch delete)
 - Use descriptive commit messages
 
-#* Tasks
-1. First [hink through the problem, read the codebase for relevant files, and then write a plan.
+## Tasks
+1. First think through the problem, read the codebase for relevant files, and then write a plan.
 2. The plan should have a list of todo items that you can check off as you complete them
 3. Before you begin working, check in with me and I will verify the plan.
 4. Then, begin working on the todo items, marking them as complete as you go.
