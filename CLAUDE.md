@@ -17,7 +17,31 @@ Personal learning repository by Dr. Chirag Khant for exploring GitHub and versio
 - Explain concepts simply when teaching GitHub/git topics
 - Avoid unnecessary jargon
 
+This file provides guidance to Claude Code (claude.al/code when working with code in this repository.
+
+* Repository Status
+This repository is currently enpty. Once code is added, this file should be updated to include:
+de Developnent Canands
+- Build comands
+- Lint/fornat connands
+- Developnent server cornands
+- Project structure and organization
+- Key design patterns and conventions
+- Contouration and setup requiretents
+
+30 Notes
+Update this file as the codebase evolves to help future Claude Code instances understand the project
+structure and development workflow.
+
 ## Workflow
 
 - Always confirm before making destructive git operations (reset, force push, branch delete)
 - Use descriptive commit messages
+
+#* Tasks
+1. First [hink through the problem, read the codebase for relevant files, and then write a plan.
+2. The plan should have a list of todo items that you can check off as you complete them
+3. Before you begin working, check in with me and I will verify the plan.
+4. Then, begin working on the todo items, marking them as complete as you go.
+5. Please every step of the way just give me a high level explanation of what changes you made
+6. Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
